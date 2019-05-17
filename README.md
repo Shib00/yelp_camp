@@ -22,7 +22,7 @@ A node.js backend project which makes use of technologies like :
     * Search existing campgrounds
 
  ## Manage user account with basic functionalities:
-    * Password reset via email confirmation.
+    * Password reset via email confirmation (not deployed yet)
     * Profile page setup with sign-up
 
     * Flash messages responding to users' interaction with the app
